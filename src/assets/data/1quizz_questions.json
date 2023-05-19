@@ -1,0 +1,56 @@
+{
+    "title":"VOCÊ GOSTA DE ESPORTE OU JOGOS ELETRÔNICOS ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual você escolheria ?",
+        "options":[
+          {"id": 1, "name":"Correr", "alias":"A"},
+          {"id": 2, "name":"Jogar Paciência", "alias":"B"},
+          {"id": 3, "name":"Jogar Volei", "alias":"A"},
+          {"id": 4, "name":"Brincar de Tetris", "alias":"B"},
+          {"id": 5, "name":"Nadar", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Onde você se sente melhor  ?",
+        "options":[
+          {"id": 1, "name":"Correndo", "alias":"A"},
+          {"id": 2, "name":"Dançando", "alias":"A"},
+          {"id": 3, "name":"Sentado  ", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual a sua maior preocupação com a Saúde ?",
+        "options":[
+          {"id": 1, "name":"Fica sentado o dia inteiro", "alias":"B"},
+          {"id": 2, "name":"Fazer exercicio  ", "alias":"A"},
+          {"id": 3, "name":"Malhar e manter uma dieta", "alias":"A"},
+          {"id": 4, "name":"Tomar café o dia inteiro ", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Onde tem a melhor estratégia ?",
+        "options":[
+          {"id": 1, "name":"Futebol", "alias":"A"},
+          {"id": 2, "name":"Country Strack", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "No futebol ?",
+        "options":[
+          {"id": 1, "name":"Você joga com chuteira", "alias":"A"},
+          {"id": 2, "name":"Você joga com controle", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Você muito provavelmente gosta de Esporte!",
+      "B": "Você muito provavelmente gosta de Jogos Eletrônicos!"
+    }
+  }
+  
